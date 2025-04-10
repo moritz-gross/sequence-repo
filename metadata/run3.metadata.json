@@ -1,0 +1,16 @@
+{
+  "length": 3,
+  "is_sorted": true,
+  "is_reverse_sorted": false,
+  "inversion_count": 0,
+  "min_value": 1,
+  "max_value": 3,
+  "range": 2,
+  "contains_duplicates": false,
+  "duplicate_count": 0,
+  "distinct_element_count": 3,
+  "mean": 2,
+  "median": 2,
+  "variance": 1,
+  "standard_deviation": 1.0
+}
