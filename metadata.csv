@@ -1,0 +1,2 @@
+sequence_id,length,data_type,is_sorted,is_reverse_sorted,run_count,reverse_run_count,inversion_count,longest_increasing_subsequence_length,longest_decreasing_subsequence_length,min_value,max_value,range,contains_duplicates,duplicate_count,distinct_element_count,mean,median,description
+run5,5,integer,True,False,1,5,0,5,1,1,5,4,False,0,5,3.0,3.0,Perfectly sorted sequence of consecutive integers starting from 1.
