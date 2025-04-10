@@ -1,0 +1,20 @@
+{
+  "length": 5,
+  "data_type": "integer",
+  "is_sorted": true,
+  "is_reverse_sorted": false,
+  "run_count": 1,
+  "reverse_run_count": 5,
+  "inversion_count": 0,
+  "longest_increasing_subsequence_length": 5,
+  "longest_decreasing_subsequence_length": 1,
+  "min_value": 1,
+  "max_value": 5,
+  "range": 4,
+  "contains_duplicates": false,
+  "duplicate_count": 0,
+  "distinct_element_count": 5,
+  "mean": 3.0,
+  "median": 3.0,
+  "description": "Perfectly sorted sequence of consecutive integers starting from 1."
+}
