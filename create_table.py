@@ -11,6 +11,9 @@ sequence_id = 'sequence_id'
 
 
 def create_table():
+
+    print('Creating table...')
+
     l = []
     print(f"Looking for *.metadata.json files in: {METADATA_DIR}")
     for file_path in list(METADATA_DIR.glob('*.metadata.json')):
